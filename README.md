@@ -124,7 +124,7 @@ The script follows these steps:
 	7.	Create the new user account
 	8.	Log the result
 
-## Change Log
+## Changelog
 
 v1.0 - 05/03/26
 - Initial working version of the script.
